@@ -5,7 +5,7 @@
 ### Step
 
 *BARE BONES*:
--   -[ ] A Freestanding Rust Binary
+-   -[x] A Freestanding Rust Binary
 -   -[ ] A Minimal Rust Kernel
 -   -[ ] VGA Text Mode
 *INTERRUPTS*:
