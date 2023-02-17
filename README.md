@@ -1,6 +1,6 @@
 ## rust-os 
 
-> inspired by [os tutorial](os.phil-opp.com).
+> inspired by [os tutorial](https://os.phil-opp.com).
 
 ### Step
 
